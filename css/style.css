@@ -141,6 +141,12 @@ p {
   padding: 1rem;
 }
 
+/* Logo */
+#navbar a {
+  color: #fff;
+}
+
+/* Navbar Menu */
 #navbar ul {
   display: flex;
   align-items: center;

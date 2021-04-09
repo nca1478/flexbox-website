@@ -19,11 +19,19 @@ $('#navbar a, .btn').on('click', function (event) {
   if (this.hash !== '') {
     event.preventDefault()
 
+    var top = 0
     const hash = this.hash
+
+    // Verify window size and asign top value
+    if (window.matchMedia('(max-width: 768px)').matches) {
+      top = 110
+    } else {
+      top = 65
+    }
 
     $('html, body').animate(
       {
-        scrollTop: $(hash).offset().top - 65
+        scrollTop: $(hash).offset().top - top
       },
       800
     )
