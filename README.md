@@ -29,7 +29,7 @@
 
 ## Demo
 
-[Business Website](https://google.com)
+[Business Website](https://business-website-njca.netlify.app/)
 
 ## Installation
 
