@@ -255,3 +255,9 @@ p {
   width: 100%;
   padding: 0.5rem;
 }
+
+/* Footer */
+
+#main-footer a {
+  color: #93cb52;
+}
