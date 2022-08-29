@@ -1,40 +1,40 @@
-## Business Website
+## Negocios en Línea (Sitio Web)
 
-`Business Website` is a basic website with a landing page to promote a banking institution.
+`Negocios en Línea` es un sitio web básico con una página para promocionar una institución bancaria.
 
-## Features
+## Características
 
-- One page website (Landing Page).
-- Header with main menu with options to access the sections of the site.
-- Form Contact.
-- Company location map.
-- Smooth Scrolling.
+- Sitio Web de una página.
+- Encabezado con menú de opciones para acceder a las secciones del sitio.
+- Formulario de Contacto.
+- Mapa de Localización de la Compañía.
+- Desplazamiento suave (Smooth Scrolling).
 
-## General Information
+## Información General
 
-- This site provide general information about the company.
-- The purpose of this project is to practice the web technologies shown below.
+- Este sitio proporciona información general sobre la empresa.
+- El propósito de este proyecto es poner en práctica las tecnologías web que se muestran a continuación.
 
-## Tech Stack
+## Tecnologías (Tech Stack)
 
 - HTML5.
-- CSS3 (Flexbox and Media Queries).
+- CSS3 (Flexbox y Media Queries).
 - Javascript (Vanilla).
-- Responsive Design (screens for all devices).
+- Responsive Design.
 
-## Development tools and other Technologies
+## Herramientas de Desarrollo y otras tecnologías
 
 - [Fontawesome 5.15.4](https://fontawesome.com/v5/search)
 - [Vscode](https://code.visualstudio.com/)
 
 ## Demo
 
-[Business Website](https://business-website-njca.netlify.app/)
+[Negocios en Línea](https://business-website-njca.netlify.app/)
 
-## Installation
+## Instalación
 
-> No installation required.
+> No se necesita instalación.
 
-## Input or main file
+## Entrada o archivo principal
 
 > /index.html
